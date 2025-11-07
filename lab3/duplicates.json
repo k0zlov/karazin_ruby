@@ -1,0 +1,24 @@
+{
+  "scanned_files": 6,
+  "duplicate_groups": 2,
+  "total_saved_bytes": 19338,
+  "groups": [
+    {
+      "size_bytes": 8966,
+      "saved_if_dedup_bytes": 8966,
+      "files": [
+        "lab3/data/download (3).jpg",
+        "lab3/data/download (3)_copy.jpg"
+      ]
+    },
+    {
+      "size_bytes": 5186,
+      "saved_if_dedup_bytes": 10372,
+      "files": [
+        "lab3/data/download (4).jpg",
+        "lab3/data/download (4)_copy.jpg",
+        "lab3/data/download (4)_copy_copy.jpg"
+      ]
+    }
+  ]
+}
